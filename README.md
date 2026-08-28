@@ -23,7 +23,7 @@ Based in **London, UK** and interested in graduate and junior opportunities acro
 
 | Project | What it demonstrates | Technologies |
 |---|---|---|
-| [StudentSettle London â€” Live Application](https://venerable-faun-9f3991.netlify.app/) | End-to-end product development, responsive interfaces, API integration, authentication, database design, testing and cloud deployment. | React, JavaScript, FastAPI, PostgreSQL |
+| [StudentSettle London - Live Application](https://venerable-faun-9f3991.netlify.app/) | End-to-end product development, responsive interfaces, API integration, authentication, database design, testing and cloud deployment. | React, JavaScript, FastAPI, PostgreSQL |
 | [Medicare Website](https://github.com/kavita355321/medicare-website) | Responsive medical-store interface and interactive front-end functionality. | HTML, CSS, JavaScript |
 | [Myntra Front-End Clone](https://github.com/kavita355321/myntra-clone) | Responsive e-commerce layout and reusable interface styling. | HTML, CSS |
 | [Disney+ Hotstar Front-End Clone](https://github.com/kavita355321/hotstar-clone) | Streaming-platform interface recreation and client-side interactions. | HTML, CSS, JavaScript |
@@ -40,8 +40,8 @@ Based in **London, UK** and interested in graduate and junior opportunities acro
 
 ## Education
 
-- **MSc Advanced Computer Science**, Queen Mary University of London â€” 2025â€“2026
-- **BSc (Hons) Computer Science**, University of Delhi â€” 2021â€“2024
+- **MSc Advanced Computer Science**, Queen Mary University of London 2025-2026
+- **BSc (Hons) Computer Science**, University of Delhi 2021-2024
 
 ## What I bring
 
@@ -51,4 +51,4 @@ Based in **London, UK** and interested in graduate and junior opportunities acro
 
 ---
 
-Open to **graduate and junior Data Analyst, BI Analyst, Insights Analyst, Data Science and Software/Web Development opportunities** in the UK.
+Open to **graduate and junior Data Analyst, BI Analyst, Insights Analyst, Data Science and Software/Web Development opportunities**.
