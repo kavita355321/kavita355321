@@ -1,10 +1,10 @@
 # Hi, I'm Kavita Yadav
 
-### Data Analyst | BI & Insights | MSc Advanced Computer Science at Queen Mary University of London
+### Data Analyst & Full-Stack Developer | MSc Advanced Computer Science at Queen Mary University of London
 
-I turn complex data into clear, decision-ready insights using **SQL, Python, Excel, Power BI and Tableau**. My portfolio combines business analysis, data visualisation, statistical modelling and production-minded software development.
+I turn complex data into decision-ready insights and build practical web applications that make those insights useful. My portfolio combines **SQL, Python, Power BI and Tableau** with **React, JavaScript, FastAPI and PostgreSQL**.
 
-Based in **London, UK** and interested in graduate and junior opportunities across data analytics, business intelligence, insights and data science.
+Based in **London, UK** and interested in graduate and junior opportunities across data analytics, business intelligence, data science and software/web development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavita6)
 [![Email](https://img.shields.io/badge/Email-kavita355321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kavita355321@gmail.com)
@@ -19,6 +19,15 @@ Based in **London, UK** and interested in graduate and junior opportunities acro
 | [Stock Price Time-Series Analysis](https://github.com/kavita355321/stock-analysis) | Tested stationarity, decomposed trends and seasonality, built an ARIMA forecast and evaluated predictions with MAE and RMSE. | Python, Pandas, Statsmodels, Matplotlib |
 | [Task Manager REST API](https://github.com/kavita355321/task-manager-api) | Designed a modular CRUD API with persistent storage and clear endpoint documentation. | Flask, SQLAlchemy, SQLite, Python |
 
+## Web development projects
+
+| Project | What it demonstrates | Technologies |
+|---|---|---|
+| [StudentSettle London â€” Live Application](https://venerable-faun-9f3991.netlify.app/) | End-to-end product development, responsive interfaces, API integration, authentication, database design, testing and cloud deployment. | React, JavaScript, FastAPI, PostgreSQL |
+| [Medicare Website](https://github.com/kavita355321/medicare-website) | Responsive medical-store interface and interactive front-end functionality. | HTML, CSS, JavaScript |
+| [Myntra Front-End Clone](https://github.com/kavita355321/myntra-clone) | Responsive e-commerce layout and reusable interface styling. | HTML, CSS |
+| [Disney+ Hotstar Front-End Clone](https://github.com/kavita355321/hotstar-clone) | Streaming-platform interface recreation and client-side interactions. | HTML, CSS, JavaScript |
+
 ## Technical toolkit
 
 | Area | Skills |
@@ -31,15 +40,15 @@ Based in **London, UK** and interested in graduate and junior opportunities acro
 
 ## Education
 
-- **MSc Advanced Computer Science**, Queen Mary University of London — 2025–2026
-- **BSc (Hons) Computer Science**, University of Delhi — 2021–2024
+- **MSc Advanced Computer Science**, Queen Mary University of London â€” 2025â€“2026
+- **BSc (Hons) Computer Science**, University of Delhi â€” 2021â€“2024
 
 ## What I bring
 
 - Business-first analysis: I connect technical work to KPIs, decisions and measurable outcomes.
-- End-to-end delivery: I can clean and query data, build models and dashboards, and communicate findings clearly.
-- Strong engineering foundation: I build reproducible projects with documented workflows, version control and testing.
+- End-to-end delivery: I can clean and query data, build models and dashboards, and turn ideas into working web applications.
+- Strong engineering foundation: I build reproducible projects with documented workflows, APIs, version control and testing.
 
 ---
 
-Open to **graduate and junior Data Analyst, BI Analyst, Insights Analyst and Data Science opportunities** in the UK.
+Open to **graduate and junior Data Analyst, BI Analyst, Insights Analyst, Data Science and Software/Web Development opportunities** in the UK.
