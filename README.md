@@ -13,6 +13,7 @@ Based in **London, UK**, I am interested in graduate and junior opportunities ac
 
 | Project | What it demonstrates | Main tools |
 |---|---|---|
+| [London Retail Location Intelligence](https://github.com/kavita355321/london-retail-location-intelligence) · [Live dashboard](https://kavita355321.github.io/london-retail-location-intelligence/) | Ranked 32 London boroughs for convenience-retail expansion using four official sources, scenario analysis and 5,000 sensitivity runs; identified Barnet and Wandsworth as the strongest screening candidates | Python, SQL, SQLite, JavaScript, decision modelling |
 | [Blinkit Sales Analytics](https://github.com/kavita355321/blinkit-sales-analytics) | End-to-end retail analysis covering data preparation, KPI design, SQL analysis, Power BI reporting and reproducibility checks | Python, PostgreSQL, Power BI, Pandas, Pytest |
 | [Global Public Health Equity](https://github.com/kavita355321/Public-Health-Data-Analysis) | Multi-source analysis of vaccination coverage, health expenditure and reported mortality across countries and income groups | Python, Pandas, World Bank, OWID, Pytest |
 | [Stock Time-Series Analysis](https://github.com/kavita355321/stock-analysis) | Chronological evaluation of an ARIMA forecast against a naïve baseline using transparent error metrics | Python, Pandas, Statsmodels, Matplotlib, Pytest |
